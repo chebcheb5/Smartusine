@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart usine</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember me !</string>
+    <string name="forget_password">Forget password !</string>
+    <string name="sgin_in">SGIN IN</string>
+    <string name="new_user_register_here">New User ! Register here !</string>
+    <string name="chedi_chalbi">Chedi Chalbi</string>
+    <string name="icon_description">Description de l-icône</string>
+    <string name="action_delete">Supprimer</string>
+</resources>

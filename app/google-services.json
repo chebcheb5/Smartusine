@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "862428212751",
+    "firebase_url": "https://smartusine-3f90f-default-rtdb.firebaseio.com",
+    "project_id": "smartusine-3f90f",
+    "storage_bucket": "smartusine-3f90f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862428212751:android:b0b328b4ecdf11b935fd7a",
+        "android_client_info": {
+          "package_name": "com.example.smartusine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEDPemEV1ZTPEOyxtqAectXszVl9U1Ouk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
