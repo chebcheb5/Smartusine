@@ -13,7 +13,15 @@
         android:layout_height="300dp"
         android:background="@drawable/top_background"
         />
-
+<Button
+    android:id="@+id/btnlogout"
+    android:layout_width="80dp"
+    android:layout_height="50dp"
+   android:layout_marginLeft="350dp"
+   android:text="logout"
+    android:textSize="9dp"
+    android:textColor="#FFFF"
+    android:backgroundTint="@color/yellow"/>
 
 <TextView
     android:id="@+id/title_view"
@@ -76,7 +84,6 @@
             android:layout_height="wrap_content"
             android:layout_row="0"
             android:layout_rowWeight="1"
-
             android:layout_column="0"
             android:layout_columnWeight="1"
             android:layout_gravity="fill"
@@ -178,7 +185,7 @@
                     android:textColor="@color/yellow"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="LOGOUT "
+                    android:text=" MACHINES "
                     android:textStyle="bold"
                     android:textAlignment="center"/>
 

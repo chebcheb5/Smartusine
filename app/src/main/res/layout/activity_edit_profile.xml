@@ -104,7 +104,7 @@
                             android:drawableTint="@color/yellow"
                             android:fontFamily="sans-serif-condensed-medium"
                             android:hint="CIN"
-                            android:inputType="text"
+                            android:inputType="number"
                             android:textSize="20sp" />
 
                         <EditText
@@ -116,7 +116,7 @@
                             android:drawableTint="@color/yellow"
                             android:fontFamily="sans-serif-condensed-medium"
                             android:hint="phone"
-                            android:inputType="text"
+                            android:inputType="phone"
                             android:textSize="20sp" />
 
                         <EditText
